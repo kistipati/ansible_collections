@@ -21,7 +21,7 @@ description: Ansible Content for IBM Power Systems - AIX provides a collection o
 
 # Collection License
 license:
-- capgemini-3.0-only
+- GPL-3.0-only
 
 # Collection Tags
 tags: [infrastructure, ibm, power, powerha]
