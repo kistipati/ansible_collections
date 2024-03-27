@@ -1,9 +1,9 @@
-# Copyright (c) IBM Corporation 2021
+# Copyright (c) Capgemini Corporation 2023
 
 # IBM collection namespace
 namespace: kistipati
 
-# Ansible collection for Power AIX OS
+# Ansible collection for PowerHA
 name: power_ha
 
 # The version of the collection.
@@ -15,32 +15,33 @@ readme: README.md
 # A list of the collection's content authors. Can be just the name or in the format 'Full Name <email> (url)
 # @nicks:irc/im.site#channel'
 authors:
-- nagarjuna reddy kistipati
+- Nagarjuna reddy. kistipati
 # Collection Description
-description: Ansible Content for IBM Power Systems - AIX provides a collection of content used to manage and deploy PowerHA.
+description: Ansible Content for IBM Power Systems - AIX provides a collection of content used to manage and deploy Power Systems powerha.
 
 # Collection License
-#license:
+license:
+- capgemini-3.0-only
 
 # Collection Tags
 tags: [infrastructure, ibm, power, powerha]
 
 # Collection Dependencies
-#dependencies: {}
+dependencies: {}
 
 # The URL of the originating SCM repository
 repository: https://github.com/kistipati/ansible_collections
 
 # The URL to any online docs
-#documentation: https://ibm.github.io/ansible-power-aix/index.html
+documentation: https://github.com/kistipati/ansible_collections
 
 # The URL to the homepage of the collection/project
-#homepage: https://github.com/IBM
+homepage: https://github.com/kistipati
 
 # The URL to the collection issue tracker
-#issues: https://github.com/IBM/ansible-power-aix/issues
+issues: https://github.com/kistipati/ansible_collections
 
-# Files to ignore when building power_ha collection
+# Files to ignore when building power_aix collection
 build_ignore:
 - builds
 - devops
