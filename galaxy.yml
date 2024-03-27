@@ -17,16 +17,16 @@ readme: README.md
 authors:
 - nagarjuna reddy kistipati
 # Collection Description
-description: Ansible Content for IBM Power Systems - AIX provides a collection of content used to manage and deploy Power Systems AIX.
+description: Ansible Content for IBM Power Systems - AIX provides a collection of content used to manage and deploy PowerHA.
 
 # Collection License
-license:
+#license:
 
 # Collection Tags
 tags: [infrastructure, ibm, power, powerha]
 
 # Collection Dependencies
-dependencies: {}
+#dependencies: {}
 
 # The URL of the originating SCM repository
 repository: https://github.com/kistipati/ansible_collections
