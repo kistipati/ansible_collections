@@ -15,7 +15,7 @@ readme: README.md
 # A list of the collection's content authors. Can be just the name or in the format 'Full Name <email> (url)
 # @nicks:irc/im.site#channel'
 authors:
-#- Paul B. Finley (@pbfinley1911)
+- nagarjuna reddy kistipati
 # Collection Description
 description: Ansible Content for IBM Power Systems - AIX provides a collection of content used to manage and deploy Power Systems AIX.
 
